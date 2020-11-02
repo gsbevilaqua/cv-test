@@ -1,8 +1,8 @@
 # cv-test
 
-to run just execute the warp_and_find_checkers script with the input folder with samples and the output folder path:
+to run just execute the warp_and_find_checkers.py script with the input folder with samples and the output folder path:
 ```bash
-python warp_and_find_checkers bgsamples output
+python warp_and_find_checkers.py bgsamples output
 ```
 
 ### i. How well do you expect this to work on other images?
